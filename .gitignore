@@ -21,3 +21,4 @@
 go.work
 prometheus-go-client/go.sum
 prometheus-go-client/main
+*/go.sum
